@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/kevgar/aws-ml-devops.svg?style=svg)](https://circleci.com/gh/kevgar/aws-ml-devops)
 # aws-ml-devops
 
 AWS DevOps workflow for ML
