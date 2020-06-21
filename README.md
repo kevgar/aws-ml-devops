@@ -3,6 +3,8 @@
 
 AWS DevOps workflow for ML
 
+[![Workflow](http://img.youtube.com/vi/4SIFF1PAMbw/default.jpg)](https://www.youtube.com/watch?v=4SIFF1PAMbw&feature=youtu.be)
+
 ## Steps to run this project
 1. Create a repo for the project
 2. Create a Cloud9 environment for the project
